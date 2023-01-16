@@ -3,6 +3,8 @@
 
 - 🔭 I recently built a Ruby on Rails app [IndieShopper](https://www.indieshopper.co/)
 
+- 📰 I'm building [NewsGuesser] (https://newsguesser.co/)
+
 - 🌱 I’m currently learning **React!**
 
 - ⚡ I'm looking for my first job as a developer, get in touch at **thomaspfkitson@gmail.com**

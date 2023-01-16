@@ -3,7 +3,7 @@
 
 - 🔭 I recently built a Ruby on Rails app [IndieShopper](https://www.indieshopper.co/)
 
-- 📰 I'm building [NewsGuesser] (https://newsguesser.co/)
+- 📰 I'm building [NewsGuesser](https://newsguesser.co/)
 
 - 🌱 I’m currently learning **React!**
 

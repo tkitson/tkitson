@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">A passionate full-stack developer from the UK, based in Barcelona.</h3>
+<h3 align="center">A passionate full-stack developer from the UK, based in The Netherlands.</h3>
 
 - 🔭 I recently built a Ruby on Rails app [IndieShopper](https://www.indieshopper.co/)
 
